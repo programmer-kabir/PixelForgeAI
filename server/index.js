@@ -9,7 +9,7 @@ const port = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "https://pixel-forge-ai-psi.vercel.app",
+    origin: "https://pixelforgeai.onrender.com",
     methods: ["GET", "POST"],
     credentials: true,
   }),
