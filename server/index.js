@@ -9,7 +9,7 @@ const port = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "https://pixelforgeai.onrender.com",
+    origin: "https://pixel-forge-ai-psi.vercel.app",
     methods: ["GET", "POST"],
     credentials: true,
   }),
@@ -103,7 +103,7 @@ app.post("/api/generate", async (req, res) => {
       fs.writeFileSync(filePath, Buffer.from(img.encodedImage, "base64"));
 
       savedImages.push(
-        `https://pixelforgeai.onrender.com/generated/${fileName}`,
+        `https://pixel-forge-ai-psi.vercel.app/generated/${fileName}`,
       );
     }
 
