@@ -102,7 +102,9 @@ app.post("/api/generate", async (req, res) => {
 
       fs.writeFileSync(filePath, Buffer.from(img.encodedImage, "base64"));
 
-      savedImages.push(`http://localhost:5000/generated/${fileName}`);
+      savedImages.push(
+        `https://pixelforgeai.onrender.com/generated/${fileName}`,
+      );
     }
 
     return res.json({
