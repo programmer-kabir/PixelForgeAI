@@ -9,11 +9,13 @@ const port = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "https://pixel-forge-ai-psi.vercel.app",
-    methods: ["GET", "POST"],
+    origin: ["https://pixel-forge-ai-psi.vercel.app", "http://localhost:3000"],
+    methods: ["GET", "POST", "OPTIONS"],
     credentials: true,
   }),
 );
+
+app.options("*", cors());
 app.use(express.json());
 
 // 🔥 templates load
@@ -103,7 +105,7 @@ app.post("/api/generate", async (req, res) => {
       fs.writeFileSync(filePath, Buffer.from(img.encodedImage, "base64"));
 
       savedImages.push(
-        `https://pixel-forge-ai-psi.vercel.app/generated/${fileName}`,
+        `https://pixelforgeai.onrender.com/generated/${fileName}`,
       );
     }
 
