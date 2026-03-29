@@ -1,0 +1,162 @@
+{
+  "None": {
+    "t2i": "{subject}",
+    "styleTemplatePreview": "https://dummyimage.com/300x200/111/888&text=None",
+
+    "i2i": {
+      "instruction": "Describe this image in high detail, including the main subject, setting, lighting, and art style. Write it as a stable diffusion prompt.",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Cute Kawaii Vector Illustration": {
+    "t2i": "A premium ultra-flat vector character illustration of {subject}, designed in a high-quality Japanese Kawaii sticker style. Visual Details: - Expression: [EXPRESSION/MOOD] (e.g., joyful, blinking, winking) - Pose: [ACTION/POSE] (e.g., jumping, sitting, holding an item) - Proportions: Chibi style, large head, tiny body, rounded soft features. Technical Specifications: - Line Art: Bold, uniform, ink-black contour lines (monoline weight) surrounding every shape. No broken lines. - Coloring: 100% solid flat color fills. Strictly NO gradients, NO texture, NO shading, NO highlights, and NO drop shadows. - Geometry: Mathematical vector curves, clean edges, simple Euclidean shapes.] - Palette: Soft pastel color scheme (Mint, Pink, Sky Blue, Lemon) on a pure white background. Output Quality: - Resolution: 8k, sharp focus. - Style: Adobe Illustrator vector art, clean SVG aesthetics, optimized for vector tracing.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Ultra Flat Vector Cute Kawaii Illustration": {
+    "t2i": "A premium ultra-flat 2D vector character illustration of {subject}, created in an authentic high-quality Japanese Kawaii sticker style, perfectly centered and isolated on a pure white background. Cute, minimal, and instantly readable at small sizes. Visual Details: Expression: [EXPRESSION/MOOD] (e.g., joyful, blinking, winking) with exaggerated kawaii facial features, large sparkling eyes, simplified mouth, and soft emotional appeal. Pose: [ACTION/POSE] (e.g., jumping, sitting, holding an item) designed for clear silhouette readability, balanced composition, and sticker usability. Proportions: Classic chibi proportions with an oversized round head, very small body, short limbs, smooth curves, and soft rounded geometry. Technical Specifications: Line Art: Bold, uniform ink-black monoline outlines of consistent thickness, enclosing every shape completely, no tapered strokes, no broken lines. Coloring: Strictly 100% solid flat color fills only — absolutely NO gradients, NO textures, NO shading, NO lighting effects, NO highlights, NO shadows, NO transparency. Geometry: Clean mathematical vector paths, precise Bézier curves, simple Euclidean shapes, minimal anchor points, perfectly smooth edges. Color Palette: Soft pastel kawaii palette using Mint, Baby Pink, Sky Blue, Lemon Yellow, and Cream tones, harmonious and low-contrast, optimized for children-friendly and sticker aesthetics. Output Quality: Resolution: Ultra-high-detail 8K clarity equivalent, razor-sharp edges. Style: Professional Adobe Illustrator–style vector artwork, clean SVG aesthetics, fully optimized for vector tracing, print, PNG export, and stock marketplace submission.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Flat Vector Illustration": {
+    "t2i": "Design a pure vector style illustration representing {subject}, Use flat geometric shapes, minimal details, and clean outlines must be with solid bold colors. The illustration must have a centered composition, balanced negative space, and a strong illustration suitable for Stock Market.No text, no letters, no numbers, no gradients, no shadows, no textures, no photorealism, and no device-centric objects.Place the illustration on a pure white background, export-ready, scalable, and consistent with modern flat vector design must be with  clean outlines with solid bold colors.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "Flat vector icon of",
+      "suffix": ", isolated on white background, minimal style, 2d flat vector, flat color"
+    }
+  },
+  "Flat Vector Icon": {
+    "t2i": "Design a pure vector style icon representing {subject},Use flat geometric shapes, minimal details, and clean outlines with solid bold colors. The icon must have a centered composition, balanced negative space, and a strong iconic silhouette suitable for UI and icon packs.No text, no letters, no numbers, no gradients, no shadows, no textures, no photorealism, and no device-centric objects.Place the icon on a pure white background, export-ready, scalable, and consistent with modern flat vector design.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "Flat vector icon of",
+      "suffix": ", isolated on white background, minimal style, 2d flat vector, flat color"
+    }
+  },
+  "Vector Icon Set (Black Outline+Filled)": {
+    "t2i": "Two matching vector icons of {subject}, arranged in a 2-column grid — left icon is a black outline version, right is a solid black filled version, both minimal and balanced on white background.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "Flat vector icon of",
+      "suffix": ", isolated on white background, minimal style, 2d flat vector, flat color"
+    }
+  },
+  "Vector Icon Set (Outline+Color)": {
+    "t2i": "Two matching vector icons of {subject}, arranged in a 2-column grid — left icon is a black outline version, right is a solid color filled version, both minimal and balanced on white background.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "Flat vector icon of",
+      "suffix": ", isolated on white background, minimal style, 2d flat vector, flat color"
+    }
+  },
+  "3D Character": {
+    "t2i": "Cute 3D render of {subject}, pixar style, bright colors, 4k",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Identify the character. Output only the character type.",
+      "prefix": "Cute 3D render of ",
+      "suffix": ", pixar style, bright colors, 4k, octane render"
+    }
+  },
+  "Cinematic Photo": {
+    "t2i": "Cinematic shot of {subject}, 35mm lens, depth of field, golden hour",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Describe the scene briefly.",
+      "prefix": "Cinematic shot of ",
+      "suffix": ", 35mm lens, f/1.8, depth of field, golden hour lighting, 8k resolution, photorealistic"
+    }
+  },
+  "QuadStyle Icon Set Generator": {
+    "t2i": "Four matching vector icons of {subject}, arranged in a clean 2\u00d72 grid layout on a pure white background \u2014 top-left icon is a solid black outline vector version with clean medium stroke weight, top-right icon is a solid black filled silhouette version with identical geometry, bottom-left icon is a flat-color version using a simple modern color palette (2\u20134 colors), and bottom-right icon is a duotone version using two complementary colors with clean color blocking. All four icons must be perfectly matched in proportions, geometry, and visual structure. Minimal, geometric, aligned in grid formation, centered, isolated, no gradients, no shadows, no textures, no extra elements \u2014 professional SVG vector style",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Coloring Book Page Illustration": {
+    "t2i": "Coloring book page illustration of {subject}. Line art version with bold, clean black outlines only on a pure white background. No shading, no textures, no gradients. Centered composition with a strong outer contour, medium inner details, and ample white space for easy coloring. Simple, clear shapes suitable for all ages. Designed for A4 portrait print layout. No text, no titles, no captions, no labels. Colored version is the exact same illustration filled with solid flat colors only. Colors are logically matched to the subject for teaching color recognition. Absolutely no shading, no blending, no shadows, no highlights, and no texture effects. Clean, uniform color fills. Original generic subject matter only. No brand names, logos, trademarks, copyrighted characters, celebrity likenesses, movie, game, anime references, or protected landmark depictions. Fully copyright-safe and print-ready.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Triple Style Icon Set New": {
+    "t2i": "Three matching vector icons of {subject}, arranged in a clean 3-column grid on a pure white background. left icon is a solid black outline vector version with clean medium stroke weight, center icon is a solid black filled silhouette version with identical geometry, and right icon will be flat geometric shapes, minimal details, and clean outlines must with solid bold colors. The icon must have a centered composition, balanced negative space, and a strong iconic silhouette suitable for UI and icon packs.No text, no letters, no numbers, no gradients, no shadows, no textures, no photorealism, and no device-centric objects.Place the icon on a pure white background, export-ready, scalable, and consistent with modern flat vector design must with clean outlines must with solid bold colors. . All three icons must be perfectly matched in proportions, geometry, and visual structure. Minimal, geometric, aligned, centered, isolated, no gradients, no shadows, no textures, no extra elements, professional SVG vector style.",
+    "styleTemplatePreview": "https://app.piksea.com/images/triple_style_icon_set.webp",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Coloring Book": {
+    "t2i": "Create two matching versions of {subject}, arranged side by side on a pure white background — left panel must be a black outline line-art version with bold outer contours, medium inner details, and ample empty spaces for coloring (no shading, no gradients, no textures, no hatching), right panel must be the same composition fully colored using solid flat fills only (strictly no gradients, no mixing, no shadows; apply logical colors that match the subject such as red, blue, green, yellow, brown, etc.); both panels must be minimal, geometric, perfectly aligned, centered composition, consistent stroke weight, and print-ready for A4 portrait format; Safety Notes: use only generic subjects, no brands, trademarks, copyrighted characters, or celebrity likeness.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Outline Coloring Book": {
+    "t2i": "Create a black line-art illustration of {subject}, designed for coloring book use — the artwork must feature bold outer contours and medium inner details, with all visible elements fully enclosed by clean outlines; no shading, no gradients, no textures, no hatching allowed; the composition should be centered on a pure white background with ample empty spaces for coloring, balanced layout, and consistent stroke weight; the style should be minimal, geometric, and print-ready format; Safety Notes: use only generic subjects, no brands, no copyrighted characters, no celebrity likeness, no trademarked elements.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Outline Coloring Book (A4)": {
+    "t2i": "Create a black line-art illustration of {subject}, designed for coloring book use — the artwork must feature bold outer contours and medium inner details, with all visible elements fully enclosed by clean outlines; no shading, no gradients, no textures, no hatching allowed; the composition should be centered on a pure white background with ample empty spaces for coloring, balanced layout, and consistent stroke weight; the style should be minimal, geometric, and print-ready for A4 portrait format; Safety Notes: use only generic subjects, no brands, no copyrighted characters, no celebrity likeness, no trademarked elements.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "Analyze the image and describe ONLY the main subject or object in simple, clear terms. Extract the core concept (e.g., \"clock\", \"shopping cart\", \"heart\", \"key\", \"smartphone\"). Focus on identifying: 1) Primary object/icon visible, 2) Basic geometric shapes, 3) Key identifying features. Ignore colors, textures, backgrounds, and artistic styles. Output should be 1-5 words maximum describing the icon subject. Examples: \"coffee cup\", \"notification bell\", \"user profile\", \"lock and key\", \"shopping bag with tag\".",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "Dual Style Icon Set": {
+    "t2i": "Two matching vector icons of {subject}, arranged in a 2-column grid on white background â€” left icon is a black outline vector design with medium line weight, right icon is a solid black filled version of the same design, both minimal, geometric with sharp angular lines meeting at a point, perfectly aligned and centered.",
+    "styleTemplatePreview": "https://thumbs.dreamstime.com/b/robot-user-profile-icon-avatar-forum-symbol-placeholder-social-networks-forums-face-sign-internet-online-240931798.jpg",
+
+    "i2i": {
+      "instruction": "",
+      "prefix": "",
+      "suffix": ""
+    }
+  }
+}
